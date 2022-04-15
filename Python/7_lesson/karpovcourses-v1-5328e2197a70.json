@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "karpovcourses-v1",
+  "private_key_id": "5328e2197a701fece4d8182d110e5924f3220060",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDMz24ZxLRbVv9R\nHsob0yU3NDEgr/Us6MfRjUfcA2jjj24vuGYreSKOLz7klNztJnGTZ6y5Q+UNN+yy\nPnjWLobpaZ4OYA3DUrwM3xBGKarNOW7v5Co8L/qDJ8zIMhHaxjBIdGJVxPyZgqxj\n5kCEpXy6TMeD0bANxRgLBLP9IlI7paUZ/mDx9YUVEIOHb5m0g4tV8KgOSDepVk05\nbpIW/XuFYwiytfIlEm0WQA67vywdWKPyf96aCQ0IwQmyLJo5lj9pBmyCqWlFZBDJ\nx6MrvdBqGxeE6VJLJjMSfmdXhOzl6W+K1lYY7bQUmbyEV35tVRN4mfmiEWqiorpG\nN01nu9fdAgMBAAECggEAGGU3zdl0izGyYTj75XMRyoDMvkI/P61tiawcrFv6nSpr\nO0NpZhG8eDev8924cAYFfsOZWwr3iErKRpPy5D4wAzL5qOgvk32yGQ1j3JufdOj7\nqhbhIgCsA/3UYl82abr0Ktk0ElfPp8BdJNwbAMHOeMlm9XBfWlCI890ITGVParuy\nZuD7XcyxcKyX9kbLNdvs+mqKi4eYHLm2DVLQJQp+ovCCbR+ibuaBV+KJXxhVU6L0\nHb2ed4yYX6l/luyjqNSYxDSe85aNh0siKKsxLG2xQLuDAkxL/yQsseKDYJkKI6g6\nHWXwinQ+yXL7h0JOPG6gdyFdVdNGKZUMW7GkJLy6wQKBgQDzilQKVlO81Ckyw+fX\nfog+YV4VqcnjAZWhioVXxTo7Kehqg0HkXcOb1gXtBnEOHUOHdeHzFaEwItBQEioR\n+dfmiGVDc6Y+nz9fCkMdckPPwE1dRAcS4MGD2ZQ6/FvPPy2+SVEM58cH/nWn1TfE\ngt09uElTvLQCUTwKmnoPwFfznQKBgQDXSdmrMxtJBCjK++UsZttjknnlPJYmqtMd\n0ovhS8gIla8X1Mqrc7vZqHN6+l8MvkvWKU/SaF9v8oNOnJ3LNSaa5hO653Zecb/N\n7txsndf38Uc2zdLIpSWRsoZ8kTEcHrLpOTBqmse1ZuE0tTqmhLyXaL5cvgAAcFG1\nQzUmbFLhQQKBgQDwL0p273CiWDNRZ7gs5ROFQg3CG7OJ+DQUH0MmrtKhKtGWymCf\n0oFqHYe2nZW+L8o7vFzcmkZf7NW5QlDPbbIqH/aOsW4RcIjVOI+8aMbMC4HBK6g2\nTAdN+7We/uek21BHzJLswWGfVqu+nB/l5JJBnpBiz0ZQysEGTBd5lV6oWQKBgQDU\nKGrhU5Pn+Llaj7Hgd9xr28VUKsitglpaYUqH025lR10tVv4CyCKu9FoZLvLMVBvY\nCQ4og8LJR2wu5Bh8UPyiWWnIHqF/oQkrn+CJCWPza0qKr3qxUE4drpjp2QtUcsxN\nGZak97MnCSOWFaKexuAzNX2jV3oY9JcQ0hJmswlaAQKBgArZyuabIs1n3bs1HxJv\nUJZwyjOmb0A8pZyAsyJcTanDMKFdTQqVWXK8Z3hAJELifBOkfoTu3U/JR1Ur5Tmv\ntHRoyelDYlvuaJH9ohHqlOeOafUK67T72ex9MCA2TnUsnRyUQ4TZfnid+gtcZcAz\nhWCj00XKRaCBu+JZI1+K7W4J\n-----END PRIVATE KEY-----\n",
+  "client_email": "karpov1@karpovcourses-v1.iam.gserviceaccount.com",
+  "client_id": "114286049849816364492",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/karpov1%40karpovcourses-v1.iam.gserviceaccount.com"
+}
